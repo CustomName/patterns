@@ -1,0 +1,3 @@
+pattern.strategy=me.learn.pattern.strategy.PatternImpl
+pattern.observer=me.learn.pattern.observer.PatternImpl
+pattern.decorator=me.learn.pattern.decorator.PatternImpl
